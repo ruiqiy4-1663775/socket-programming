@@ -1,0 +1,16 @@
+1. Instruction : make all. Then run in the order given in the spec
+2. Extra credits: If user input multiple course numbers, the user must use a single space to separate the
+course number, and cannot add an extra space after the last course number
+3. The program expects the user to input valid input as shown in the spec. Otherwise, nothing is guaranteedd
+
+a. ruiqi yu
+b. 8222270785
+c. I completed everything, including the extra credits
+d. serverC: credential. serverEE/CS: retrieve course information. serverM: main server connected to client
+   client: user uses this program
+e. For extra credit part: use space to separate course numbers
+   For normal part: course number + special character + category
+   and the final output given to the client as shown in the spec
+f. None
+g. No. Everything is original. I may have used several lines of code from the guide, such creating a socket
+
